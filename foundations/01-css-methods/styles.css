@@ -1,6 +1,8 @@
 /* styles.css */
 
 div {
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-weight: bold;
     color: white;
     font-size: 32px;
     background-color: red;
